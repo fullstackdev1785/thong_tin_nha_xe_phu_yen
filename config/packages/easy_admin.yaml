@@ -1,0 +1,24 @@
+easy_admin:
+  entities:
+    - App\Entity\NhaXe
+    - App\Entity\Xe
+    - App\Entity\DaiLy
+    - App\Entity\TuyenDuong
+    - App\Entity\LichTrinh
+    - App\Entity\LoaiXe
+    - App\Entity\LoaiGhe
+    - App\Entity\DanhGia
+    - App\Entity\ChinhSach
+    - App\Entity\HinhAnh
+    - App\Entity\DiaChi
+    - App\Entity\DienThoai
+    - App\Entity\VeXe
+    - App\Entity\Tinh
+    - App\Entity\Huyen
+    - App\Entity\Xa
+    - App\Entity\NguoiDung
+    - App\Entity\User
+
+
+       
+
